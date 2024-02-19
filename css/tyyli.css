@@ -1,0 +1,19 @@
+body {
+ background-color: azure;
+}
+
+.yellow-box {
+    background-color: rgb(233, 233, 124);
+    padding: 5px; 
+    border-radius: 4px;
+}
+
+.cell-spacing {
+    margin-right: 10px; 
+}
+
+button {
+    background-color :lightblue;
+    padding: 5px;
+    border-radius: 10;
+}
